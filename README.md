@@ -1,8 +1,6 @@
 # Hi, I'm Kutlwano Take 🚀
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:22c55e&height=170&section=header&text=Full-Stack%20%26%20Cloud%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:22c55e&height=170&section=header&text=Full-Stack%20%26%20Cloud%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&v=2)
 
 Full-Stack & Cloud Engineer | Building production-grade AWS serverless apps  
 Johannesburg, ZA | AWS Certified Developer Associate | React + Node.js + Terraform
@@ -14,9 +12,7 @@ Turning serverless ideas into reliable reality — one `terraform apply` at a ti
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Kutlwano-Take&style=for-the-badge&color=0ea5e9" alt="profile views" />
-</p>
+![profile views](https://komarev.com/ghpvc/?username=Kutlwano-Take&style=for-the-badge&color=0ea5e9)
 
 <p>
   <a href="https://kutlwano-portfolio.vercel.app/">
@@ -129,22 +125,15 @@ AI-powered resume job matching app for faster job alignment and clearer skill-ga
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kutlwano-Take&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Kutlwano-Take&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+[![Kutlwano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kutlwano-Take&show_icons=true&theme=dracula&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutlwano-Take&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kutlwano-Take&theme=dracula&no-frame=true&margin-w=8" alt="trophies" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kutlwano-Take&layout=compact&theme=dracula&hide_border=true&v=2)
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=dracula&hide_border=true" alt="activity graph" />
-</p>
+![trophies](https://github-profile-trophy.vercel.app/?username=Kutlwano-Take&theme=dracula&no-frame=true&margin-w=8&v=2)
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
 
 ## 🔗 Links
 - **Portfolio:** https://kutlwano-portfolio.vercel.app/
