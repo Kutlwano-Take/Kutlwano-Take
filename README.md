@@ -1,7 +1,5 @@
 # Hi, I'm Kutlwano Take 🚀
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:22c55e&height=170&section=header&text=Full-Stack%20%26%20Cloud%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&v=2)
-
 Full-Stack & Cloud Engineer | Building production-grade AWS serverless apps  
 Johannesburg, ZA | AWS Certified Developer Associate | React + Node.js + Terraform
 
@@ -127,11 +125,7 @@ AI-powered resume job matching app for faster job alignment and clearer skill-ga
 
 [![Kutlwano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kutlwano-Take&show_icons=true&theme=dracula&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kutlwano-Take&layout=compact&theme=dracula&hide_border=true&v=2)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=Kutlwano-Take&theme=dracula&no-frame=true&margin-w=8&v=2)
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
 
