@@ -1,4 +1,4 @@
-# Hi, I'm Kutlwano Take 🚀
+# Hi, I'm Kutlwano Take
 
 Full-Stack & Cloud Engineer | Building production-grade AWS serverless apps  
 Johannesburg, ZA | AWS Certified Developer Associate | React + Node.js + Terraform
