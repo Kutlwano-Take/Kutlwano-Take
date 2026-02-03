@@ -125,15 +125,15 @@ Production-ready full-stack application focused on **real user value**, **secure
 - **Live:** https://live.d23ix241s4yuzf.amplifyapp.com
 - **Repo:** https://github.com/Kutlwano-Take/SpendGuard
 
-### Resume Job Matcher (AI Powered Project)
-AI-powered resume job matching app for faster job alignment and clearer skill-gap planning.
+### Landmark Track
+Landmark tracking application for discovering and logging points of interest with a clean, responsive interface.
 
-- **Workflow:** upload resume, extract skills, compare to job descriptions
-- **Output:** match percentage, missing skills (gaps), personalized learning path and recommendations
-- **AI approach:** embeddings-driven comparisons for better matching quality
+- **Core features:** landmark discovery, detailed information, and user-friendly navigation
+- **Frontend:** responsive design built for modern browsers
+- **Deployment:** live on Vercel for fast, global access
 
-- **Live:** https://bit-trio-resume-job-matcher.vercel.app/
-- **Repo:** https://github.com/MfobesTechJournal/BitTrio-Resume-Job-Matcher
+- **Live:** https://landmark-track-n4n9.vercel.app/
+- **Repo:** https://github.com/Kutlwano-Take/landmark-track
 
 ## 🏅 Certifications
 - AWS Certified Developer Associate
@@ -152,9 +152,6 @@ AI-powered resume job matching app for faster job alignment and clearer skill-ga
 
 ## 📊 GitHub Stats
 
-[![Kutlwano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kutlwano-Take&show_icons=true&theme=dracula&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kutlwano-Take&layout=compact&theme=dracula&hide_border=true&v=2)
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
 
