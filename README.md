@@ -108,7 +108,7 @@ AI-powered climate intelligence platform for African weather and environmental a
 
 - Stack: Python, Pandas, SQLAlchemy, AWS data services, Streamlit
 - Highlights: climate pattern analysis, trend visualization, data-driven reporting workflows
-- Links: [Live Demo](https://africlimate-analytics-lake.onrender.com/) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
+- Links: [Live Demo](https://kutlwano-take-africlimate-analytics-eight.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
 
 ## Certifications
 
