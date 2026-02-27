@@ -1,9 +1,12 @@
 # Hi, I'm Kutlwano Take
 
-Full-Stack & Cloud Engineer | Building production-grade AWS serverless apps  
-Johannesburg, ZA | AWS Certified Developer Associate | React + Node.js + Terraform
+Full-Stack and Cloud Engineer building production-grade AWS serverless applications.
 
-Turning serverless ideas into reliable reality — one `terraform apply` at a time.
+Johannesburg, South Africa  
+AWS Certified Developer - Associate  
+React + Node.js + Terraform
+
+Turning serverless ideas into reliable reality, one `terraform apply` at a time.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
@@ -24,140 +27,116 @@ Turning serverless ideas into reliable reality — one `terraform apply` at a ti
   </a>
 </p>
 
-## 🚀 Specialization
-I’m a **Full-Stack & Cloud Engineer** focused on building **production-grade AWS workloads** and the applications that run on them.
+## Specialization
+I build end-to-end products with cloud-first architecture and production engineering practices.
 
-- **Cloud:** AWS serverless and managed services (design, build, secure, deploy)
-- **Infrastructure:** Infrastructure-as-Code with Terraform
-- **Backend:** secure Node.js/Express APIs, auth, CORS-safe integrations, cloud networking fundamentals
-- **Frontend:** React apps that are responsive, accessible, and performance-aware
+- Cloud: AWS serverless and managed services (design, build, secure, deploy)
+- Infrastructure: Infrastructure as Code with Terraform
+- Backend: secure Node.js and Express APIs, auth, CORS-safe integrations
+- Frontend: responsive and accessible React applications
+- Delivery: CI/CD workflows with reliability and rollback in mind
 
-## 👋 About Me
+## What I Do
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Cloud+Developer;AWS+Serverless+%7C+IaC+%7C+Secure+Backends;React+Frontends+%7C+Node.js+APIs+%7C+CI%2FCD" alt="Typing SVG" />
-  </a>
-</p>
+- Cloud architecture using scalable serverless AWS patterns
+- Terraform-based infrastructure for repeatable environments
+- Backend API engineering with secure auth and clear service boundaries
+- Frontend delivery focused on UX, performance, and maintainability
 
-- I build **reliable cloud systems** and the apps that run on them, from **IaC** to **secure APIs** to **fast frontends**.
-- I care about **clean deployments**, **tight security**, **observable systems**, and codebases that are easy to maintain.
-- Based in **Johannesburg**.
+## Currently Exploring
 
-### What I Do
-- **Cloud architecture:** AWS serverless + scalable managed services
-- **Infrastructure-as-Code:** repeatable environments with Terraform
-- **Backend engineering:** secure APIs, auth, and data layers
-- **Frontend delivery:** accessible React UIs with a production mindset
+- Advanced serverless patterns (Function URLs, API Gateway design, caching)
+- Prompt engineering workflows and evaluation loops with Gemini
 
-### Currently Exploring
-- **Serverless patterns:** Function URLs, API Gateway patterns, caching strategies
-- **Prompt engineering:** production prompts and evaluation loops with Gemini
+## Tech Stack
 
-### Ask Me About
-- AWS serverless architecture, Terraform, CI/CD, CORS/API proxying, debugging cloud networking issues
-
-## 🛠️ Tech Stack
-
-### Languages & Core
+### Languages and Core
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & UI/UX
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- Responsive & mobile-first design
-- Accessibility (WCAG / a11y best practices)
-- User-centered design principles
-- Wireframing & prototyping (Figma)
-- UI component libraries & design systems
 
-### Backend & APIs
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- REST APIs, API proxying
-- Secure auth & CORS-hardened integrations
 
-### Cloud & DevOps (AWS af-south-1 focus)
+### Cloud and DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-- Lambda (incl. Function URLs for serverless proxy)
-- API Gateway, IAM, Security Groups
-- RDS (MySQL & PostgreSQL)
-- Elastic Beanstalk
-- S3, CloudFront
-- Cloud networking fundamentals
-- CI/CD: Git, Vercel
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Data & Tools
+Core services and practices:
+- Lambda (including Function URLs)
+- API Gateway, IAM, Security Groups
+- RDS (MySQL and PostgreSQL)
+- Elastic Beanstalk
+- S3 and CloudFront
+- Cloud networking fundamentals
+- GitHub Actions CI/CD workflows and Vercel deployments
+
+### Data and Tooling
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2C3E50?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![boto3](https://img.shields.io/badge/boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- Complex SQL: JOINs, CTEs, window functions
-- Python AWS automation (boto3)
 
-### AI & Extras
+### AI
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-- Prompt engineering with Gemini 1.5 Flash
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### AWS Scalable To-Do List App
-Full-stack serverless application built to demonstrate **cloud-native scalability** with a clean separation of frontend, API, and data.
+Production-ready serverless task management app built for scalable cloud-native delivery.
 
-- **Architecture:** S3 + CloudFront frontend, Lambda + API Gateway backend, DynamoDB storage
-- **Infrastructure:** Terraform-managed cloud resources
-- **Engineering focus:** production-ready cloud patterns, security-minded configuration, and scalable serverless design
+- Stack: AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Terraform
+- Highlights: infrastructure as code, secure API patterns, globally distributed frontend delivery
+- Links: [Live Demo](https://dnz0gkceadoio.cloudfront.net/) | [GitHub](https://github.com/Kutlwano-Take/aws-scalable-todo-app)
 
-- **Live:** https://dnz0gkceadoio.cloudfront.net/
-- **Repo:** https://github.com/Kutlwano-Take/aws-scalable-todo-app
+### SpendGuard - Smart Personal Expense and Budget Tracker
+Full-stack personal finance application focused on budgeting, alerting, and actionable insights.
 
-### SpendGuard – Smart Personal Expense & Budget Tracker
-Production-ready full-stack application focused on **real user value**, **secure data handling**, and a premium UX.
+- Stack: React, Node.js, AWS serverless services, DynamoDB
+- Highlights: category budgets, overspending alerts, receipt OCR workflow, auth-first data protection
+- Links: [Live Demo](https://live.d23ix241s4yuzf.amplifyapp.com) | [GitHub](https://github.com/Kutlwano-Take/SpendGuard)
 
-- **Core features:** budgets by category, overspending alerts, progress visualizations, AI-powered insights
-- **Security & access:** authentication-first approach to protect user data
-- **Automation/UX:** receipt OCR scanning and a clean, responsive interface
+### AfriClimate Analytics Lake
+AI-powered climate intelligence platform for African weather and environmental analytics.
 
-- **Live:** https://live.d23ix241s4yuzf.amplifyapp.com
-- **Repo:** https://github.com/Kutlwano-Take/SpendGuard
+- Stack: Python, Pandas, SQLAlchemy, AWS data services, Streamlit
+- Highlights: climate pattern analysis, trend visualization, data-driven reporting workflows
+- Links: [Live Demo](https://africlimate-analytics-lake.streamlit.app) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
 
-### Landmark Track
-Landmark tracking application for discovering and logging points of interest with a clean, responsive interface.
+## Certifications
 
-- **Core features:** landmark discovery, detailed information, and user-friendly navigation
-- **Frontend:** responsive design built for modern browsers
-- **Deployment:** live on Vercel for fast, global access
-
-- **Live:** https://landmark-track-n4n9.vercel.app/
-- **Repo:** https://github.com/Kutlwano-Take/landmark-track
-
-## 🏅 Certifications
-- AWS Certified Developer Associate
+- AWS Certified Developer - Associate
 - DevOps on AWS: Code, Build, and Testing
 - AWS Cloud Practitioner Essentials
-- Introduction to Containers w/ Docker, Kubernetes & OpenShift
+- Introduction to Containers with Docker, Kubernetes, and OpenShift
 - Version Control with Git
 - Ultimate AWS Certified Developer Associate
 
-## 🔒 Observability & Reliability
+## Engineering Priorities
 
-- **Observability:** structured logs, actionable metrics, trace-friendly request flows
-- **Reliability:** timeouts, retries where appropriate, graceful degradation, idempotency mindset
-- **Performance:** cache strategically (CDN), minimize cold-start impact, keep payloads lean
-- **Delivery safety:** environment separation, repeatable IaC, rollback-ready releases
+- Observability: structured logs, actionable metrics, traceable request flow
+- Reliability: timeouts, retries, graceful degradation, idempotency mindset
+- Performance: strategic caching, lean payloads, cold-start awareness
+- Delivery safety: environment separation, repeatable IaC, rollback-ready releases
 
-## 📊 GitHub Stats
+## GitHub Activity
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=react-dark&hide_border=true&v=2)
+
+## Links
+
+- Portfolio: https://kutlwano-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/kutlwano-take-42229431b/
+
+## Contact
+
+If you want to collaborate or hire me, reach out on LinkedIn or explore my projects above.
 
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kutlwano-Take&theme=dracula&hide_border=true&v=2)
-
-## 🔗 Links
-- **Portfolio:** https://kutlwano-portfolio.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/kutlwano-take-42229431b/
-
-## 📬 Contact
-- If you want to collaborate or hire me, reach out via LinkedIn or view my work on my portfolio.
