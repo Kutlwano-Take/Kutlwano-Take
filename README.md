@@ -4,14 +4,16 @@ Full-Stack and Cloud Engineer building production-grade AWS serverless applicati
 
 Johannesburg, South Africa  
 AWS Certified Developer - Associate  
-React + Node.js + Terraform
+React + TypeScript + Terraform
 
 Turning serverless ideas into reliable reality, one `terraform apply` at a time.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![profile views](https://komarev.com/ghpvc/?username=Kutlwano-Take&style=for-the-badge&color=0ea5e9)
 
@@ -28,12 +30,13 @@ Turning serverless ideas into reliable reality, one `terraform apply` at a time.
 </p>
 
 ## Specialization
+
 I build end-to-end products with cloud-first architecture and production engineering practices.
 
 - Cloud: AWS serverless and managed services (design, build, secure, deploy)
 - Infrastructure: Infrastructure as Code with Terraform
-- Backend: secure Node.js and Express APIs, auth, CORS-safe integrations
-- Frontend: responsive and accessible React applications
+- Backend: secure Node.js/Express APIs and Python data workflows
+- Frontend: responsive and accessible React + TypeScript applications
 - Delivery: CI/CD workflows with reliability and rollback in mind
 
 ## What I Do
@@ -43,14 +46,10 @@ I build end-to-end products with cloud-first architecture and production enginee
 - Backend API engineering with secure auth and clear service boundaries
 - Frontend delivery focused on UX, performance, and maintainability
 
-## Currently Exploring
-
-- Advanced serverless patterns (Function URLs, API Gateway design, caching)
-- Prompt engineering workflows and evaluation loops with Gemini
-
 ## Tech Stack
 
 ### Languages and Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,65 +58,75 @@ I build end-to-end products with cloud-first architecture and production enginee
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Cloud and DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-Core services and practices:
-- Lambda (including Function URLs)
-- API Gateway, IAM, Security Groups
-- RDS (MySQL and PostgreSQL)
-- Elastic Beanstalk
+Core services:
+- Lambda, API Gateway, DynamoDB, Cognito
 - S3 and CloudFront
-- Cloud networking fundamentals
-- GitHub Actions CI/CD workflows and Vercel deployments
+- Glue, Athena
+- Textract, Bedrock
+- CloudWatch
 
-### Data and Tooling
+### Data and AI
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2C3E50?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![boto3](https://img.shields.io/badge/boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### AI
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ## Featured Projects
 
-### AWS Scalable To-Do List App
-Production-ready serverless task management app built for scalable cloud-native delivery.
+### 01 / AfriClimate Analytics Lake
+Climate Intelligence Platform — Production-ready climate analytics for Southern Africa. A serverless AWS pipeline ingests CHIRPS data into S3, processes it with Lambda, catalogs it in Glue, and serves a Dash application for drought, water, climate risk, community impact, and carbon insights.
 
-- Stack: AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Terraform
-- Highlights: infrastructure as code, secure API patterns, globally distributed frontend delivery
-- Links: [Live Demo](https://dnz0gkceadoio.cloudfront.net/) | [GitHub](https://github.com/Kutlwano-Take/aws-scalable-todo-app)
+- **Stack:** Python, Dash, AWS Lambda, S3, Glue, Athena, Plotly
+- **Links:** [Live Demo](https://kutlwano-take-africlimate-analytics-eight.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
 
-### SpendGuard - Smart Personal Expense and Budget Tracker
-Full-stack personal finance application focused on budgeting, alerting, and actionable insights.
+### 02 / TshidiAI
+AI-powered workspace for South African service businesses. Helps teams onboard clients, send quotes and proposals, sign agreements, collect payments, and manage revenue from one ZAR-first platform.
 
-- Stack: React, Node.js, AWS serverless services, DynamoDB
-- Highlights: category budgets, overspending alerts, receipt OCR workflow, auth-first data protection
-- Links: [Live Demo](https://live.d23ix241s4yuzf.amplifyapp.com) | [GitHub](https://github.com/Kutlwano-Take/SpendGuard)
+- **Stack:** AI Workflows, Quotes & Proposals, Agreements, Payments, ZAR Billing, Vercel
+- **Links:** [Live Demo](https://tshidi-ai-invoice-tool.vercel.app/) | [GitHub](https://github.com/TshidiTech/tshidi-ai-invoice-tool)
 
-### AfriClimate Analytics Lake
-AI-powered climate intelligence platform for African weather and environmental analytics.
+### 03 / Pumeza Mngambi Foundation
+A production-ready website for a South African youth empowerment foundation. Built with React and TanStack Router, styled with Tailwind CSS, and deployed on Cloudflare Workers.
 
-- Stack: Python, Pandas, SQLAlchemy, AWS data services, Streamlit
-- Highlights: climate pattern analysis, trend visualization, data-driven reporting workflows
-- Links: [Live Demo](https://kutlwano-take-africlimate-analytics-eight.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
+- **Stack:** React, TypeScript, TanStack Router, Tailwind CSS, Vite, Cloudflare Workers
+- **Links:** [Live Demo](https://pumezamngambifoundation.kutlwanotake214.workers.dev/) | [GitHub](https://github.com/TshidiTech/remix-of-pumeza-legacy-project-76)
+
+### 04 / SpendGuard
+Full-stack serverless expense tracker with category budgets, overspend alerts, receipt OCR, and AI-powered insights. Brings together secure Cognito authentication, cloud workflows, and a polished product-grade experience.
+
+- **Stack:** React, TypeScript, AWS Amplify, Cognito, Lambda, DynamoDB, Textract, Bedrock
+- **Links:** [Live Demo](https://spendguard-zeta.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/SpendGuard)
 
 ## Certifications
 
 - AWS Certified Developer - Associate
-- DevOps on AWS: Code, Build, and Testing
 - AWS Cloud Practitioner Essentials
+- DevOps on AWS: Code, Build, and Testing
 - Introduction to Containers with Docker, Kubernetes, and OpenShift
 - Version Control with Git
-- Ultimate AWS Certified Developer Associate
 
 ## Engineering Priorities
 
@@ -138,5 +147,3 @@ AI-powered climate intelligence platform for African weather and environmental a
 ## Contact
 
 If you want to collaborate or hire me, reach out on LinkedIn or explore my projects above.
-
-
