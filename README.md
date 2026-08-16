@@ -1,12 +1,12 @@
 # Hi, I'm Kutlwano Take
 
-Full-Stack and Cloud Engineer building production-grade AWS serverless applications.
+**Full-Stack & Cloud Developer** with 2+ years of professional experience building web applications and cloud-based systems.
 
 Johannesburg, South Africa  
-AWS Certified Developer - Associate  
-React + TypeScript + Terraform
+React | TypeScript | AWS | Python  
+ kutlwanotake214@gmail.com |
 
-Turning serverless ideas into reliable reality, one `terraform apply` at a time.
+Building responsive, data-driven interfaces and scalable cloud solutions with modern development practices.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
@@ -31,20 +31,21 @@ Turning serverless ideas into reliable reality, one `terraform apply` at a time.
 
 ## Specialization
 
-I build end-to-end products with cloud-first architecture and production engineering practices.
+I build end-to-end products with strong frontend architecture, backend integration, and cloud infrastructure:
 
-- Cloud: AWS serverless and managed services (design, build, secure, deploy)
-- Infrastructure: Infrastructure as Code with Terraform
-- Backend: secure Node.js/Express APIs and Python data workflows
-- Frontend: responsive and accessible React + TypeScript applications
-- Delivery: CI/CD workflows with reliability and rollback in mind
+- **Frontend:** Responsive React + TypeScript applications with reusable components, state management, and modern styling (Tailwind CSS, shadcn/ui)
+- **Backend:** Secure REST APIs with Node.js/Express, authentication, error handling, and service layer architecture
+- **Cloud:** AWS services for application hosting, data processing, and infrastructure (Lambda, API Gateway, DynamoDB, RDS, S3)
+- **Full-Stack:** Seamless integration across frontend, backend, and cloud environments with Git-based workflows
 
 ## What I Do
 
-- Cloud architecture using scalable serverless AWS patterns
-- Terraform-based infrastructure for repeatable environments
-- Backend API engineering with secure auth and clear service boundaries
-- Frontend delivery focused on UX, performance, and maintainability
+- Build responsive, production-ready web applications using React + TypeScript
+- Design and integrate REST APIs with secure authentication and proper error handling
+- Deploy and manage cloud infrastructure on AWS with focus on scalability and reliability
+- Develop data-driven dashboards and reporting interfaces with interactive visualisations
+- Implement AI-powered features and backend integrations for modern applications
+- Debug and optimize application performance across the full stack
 
 ## Tech Stack
 
@@ -96,44 +97,47 @@ Core services:
 
 ## Featured Projects
 
-### 01 / AfriClimate Analytics Lake
-Climate Intelligence Platform — Production-ready climate analytics for Southern Africa. A serverless AWS pipeline ingests CHIRPS data into S3, processes it with Lambda, catalogs it in Glue, and serves a Dash application for drought, water, climate risk, community impact, and carbon insights.
+### 01 / EFF Election Management Platform
 
-- **Stack:** Python, Dash, AWS Lambda, S3, Glue, Athena, Plotly
-- **Links:** [Live Demo](https://kutlwano-take-africlimate-analytics-eight.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/africlimate-analytics-lake)
+Full-stack election management platform focused on station management, agent management, incident reporting, audit data, notifications, and operational dashboards.
 
-### 02 / TshidiAI
-AI-powered workspace for South African service businesses. Helps teams onboard clients, send quotes and proposals, sign agreements, collect payments, and manage revenue from one ZAR-first platform.
+- **Stack:** React, Angular, TypeScript, Python, REST APIs, AWS, Git
+- **Highlights:** Data-driven administrative interfaces, reusable components, responsive layouts, backend API integration, dashboard and drill-down experiences, incident and reporting workflows.
+- **Links:** [Live Demo](https://effiemsa.co.za/login) | [Source Code](https://github.com/TshidiTech/election-sentinel)
 
-- **Stack:** AI Workflows, Quotes & Proposals, Agreements, Payments, ZAR Billing, Vercel
-- **Links:** [Live Demo](https://tshidi-ai-invoice-tool.vercel.app/) | [GitHub](https://github.com/TshidiTech/tshidi-ai-invoice-tool)
+### 02 / OR TAMBO Client Portal & Booking Platform
 
-### 03 / Pumeza Mngambi Foundation
-A production-ready website for a South African youth empowerment foundation. Built with React and TanStack Router, styled with Tailwind CSS, and deployed on Cloudflare Workers.
+Responsive client platform built for managing bookings, invoices, payments, documents, profiles, packages, and dashboards.
 
-- **Stack:** React, TypeScript, TanStack Router, Tailwind CSS, Vite, Cloudflare Workers
-- **Links:** [Live Demo](https://pumezamngambifoundation.kutlwanotake214.workers.dev/) | [GitHub](https://github.com/TshidiTech/remix-of-pumeza-legacy-project-76)
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router
+- **Highlights:** Reusable component architecture, centralised service layer for backend integration, responsive workflows, loading states, empty states, error handling, validation, and maintainable frontend architecture.
+- **Links:** [Live Demo](https://or-tambo-golf.vercel.app/auth) | [Source Code](https://github.com/TshidiTech/sjv-golf-reg-pro-45)
 
-### 04 / SpendGuard
-Full-stack serverless expense tracker with category budgets, overspend alerts, receipt OCR, and AI-powered insights. Brings together secure Cognito authentication, cloud workflows, and a polished product-grade experience.
+### 03 / AI-Powered Invoice Business Platform
 
-- **Stack:** React, TypeScript, AWS Amplify, Cognito, Lambda, DynamoDB, Textract, Bedrock
-- **Links:** [Live Demo](https://spendguard-zeta.vercel.app/) | [GitHub](https://github.com/Kutlwano-Take/SpendGuard)
+AI-powered business management platform for managing invoices, quotes, proposals, clients, payments, documents, and financial reporting.
+
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, OpenAI, Supabase, TanStack Query, Recharts
+- **Highlights:** AI-powered invoice, quote, and proposal generation from natural-language input, authentication, data fetching and caching, form validation, backend integrations, analytics, reporting, and interactive data visualisation.
+- **Links:** [Live Demo](https://tshidi-ai-invoice-tool.vercel.app/) | [Source Code](https://github.com/TshidiTech/tshidi-ai-invoice-tool)
 
 ## Certifications
 
-- AWS Certified Developer - Associate
+- AWS: Architecting Solutions on AWS
+- AWS: DevOps on AWS (Code, Build, and Test)
 - AWS Cloud Practitioner Essentials
-- DevOps on AWS: Code, Build, and Testing
-- Introduction to Containers with Docker, Kubernetes, and OpenShift
+- Google Cloud Fundamentals: Core Infrastructure
+- Generative AI with Large Language Models
 - Version Control with Git
+- Agile with Atlassian Jira
 
-## Engineering Priorities
+## Development Priorities
 
-- Observability: structured logs, actionable metrics, traceable request flow
-- Reliability: timeouts, retries, graceful degradation, idempotency mindset
-- Performance: strategic caching, lean payloads, cold-start awareness
-- Delivery safety: environment separation, repeatable IaC, rollback-ready releases
+- **Code Quality:** Reusable components, clean architecture, maintainable code structure
+- **User Experience:** Responsive design, loading states, error handling, form validation
+- **Performance:** Optimized data fetching, caching strategies, efficient rendering
+- **Reliability:** Robust API integration, proper error handling, comprehensive testing
+- **Scalability:** Service-layer architecture, modular design, cloud-native patterns
 
 ## GitHub Activity
 
